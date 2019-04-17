@@ -1,0 +1,5 @@
+name: MCNodeGraphicServer
+version: 1.0
+author: WalkerKnapp
+main: com.walker.mcnodegraphic.MCNGServer
+api-version: 1.13
